@@ -8,5 +8,6 @@ This repository contains my Python practice programs.
 - Day 2 – Operators
 - Day 3 – Conditional Statements
 - Day 4 – Loops 
+- Day 5 - Functions
 
 Learning Python step by step 
