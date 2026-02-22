@@ -10,5 +10,5 @@ This repository contains my Python practice programs.
 - Day 4 – Loops 
 - Day 5 - Functions
 - Day 6 - List
-
+- Day 7 - String
 Learning Python step by step 

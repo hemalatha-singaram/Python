@@ -1,0 +1,5 @@
+name=input("enter your fullname:")
+print(f"My name is {name}")
+print(name.upper())
+print(name.lower())
+print(name.title())
