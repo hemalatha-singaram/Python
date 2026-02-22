@@ -9,5 +9,6 @@ This repository contains my Python practice programs.
 - Day 3 – Conditional Statements
 - Day 4 – Loops 
 - Day 5 - Functions
+- Day 6 - List
 
 Learning Python step by step 
