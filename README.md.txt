@@ -13,4 +13,5 @@ This repository contains my Python practice programs.
 - Day 7 - String
 - Day 8 - Dictionary
 - Day 9 - Tuples and Sets
+- Day 10 - File Handling
 Learning Python step by step 
