@@ -15,4 +15,6 @@ This repository contains my Python practice programs.
 - Day 9 - Tuples and Sets
 - Day 10 - File Handling
 - Day 11 - Exception Handling,Object Oriented Programming
+- Day 12 - Concepts of OOP
+- Day 13 - Libraries and Modules
 Learning Python step by step 
