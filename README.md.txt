@@ -17,4 +17,5 @@ This repository contains my Python practice programs.
 - Day 11 - Exception Handling,Object Oriented Programming
 - Day 12 - Concepts of OOP
 - Day 13 - Libraries and Modules
+- Day 14 - Lambda,map and filters
 Learning Python step by step 
