@@ -21,4 +21,5 @@ This repository contains my Python practice programs.
 - Day 15 - Dictionary comprehension
 - Day 16 - Decorators
 - Day 17 - Generators,Regular Expressions
+- Day 18 - Context Managers
 Learning Python step by step 
