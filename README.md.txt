@@ -18,4 +18,7 @@ This repository contains my Python practice programs.
 - Day 12 - Concepts of OOP
 - Day 13 - Libraries and Modules
 - Day 14 - Lambda,map and filters
+- Day 15 - Dictionary comprehension
+- Day 16 - Decorators
+- Day 17 - Generators,Regular Expressions
 Learning Python step by step 
